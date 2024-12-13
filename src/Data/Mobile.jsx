@@ -1,0 +1,59 @@
+export const MobileData =[
+    {
+         image:'https://m.media-amazon.com/images/I/41T2+zcSoaL._SY300_SX300_.jpg',
+         id:1,
+         brand:'vivo',
+         model:'v29e',
+         price:20000,
+ },
+ {
+    image:'https://m.media-amazon.com/images/I/81eJJYFsztL._AC_UY327_FMwebp_QL65_.jpg',
+    id:2,
+    brand:'vivo',
+    model:'v20e',
+    price:20000,
+ },
+ {
+   image:'https://m.media-amazon.com/images/I/71hXOxMixCL._AC_UY327_FMwebp_QL65_.jpg',
+    id:3,
+    brand:'vivo',
+    model:'v21e',
+    price:20000,
+ },
+ {
+   image:'https://m.media-amazon.com/images/I/61VxzkiD1EL._AC_UY327_FMwebp_QL65_.jpg',
+    id:4,
+    brand:'vivo',
+    model:'v30e',
+    price:20000,
+ },
+ {
+   image:'https://m.media-amazon.com/images/I/81XmCGfKlWL._AC_UY327_FMwebp_QL65_.jpg',
+    id:5,
+    brand:'MI',
+    model:'9pro max',
+    price:10000,
+ },
+ {
+   image:'https://m.media-amazon.com/images/I/71MGSe0lcML._AC_UY327_FMwebp_QL65_.jpg',
+    id:6,
+    brand:'MI',
+    model:'10pro max',
+    price:25000,
+ },
+ {
+   image:'https://m.media-amazon.com/images/I/81m1SddJ6-L._AC_UY327_FMwebp_QL65_.jpg',
+    id:7,
+    brand:'vivo',
+    model:'11pro max',
+    price:26000,
+ },
+ {
+   image:'https://m.media-amazon.com/images/I/61WZicN+coL._AC_UY327_FMwebp_QL65_.jpg',
+    id:8,
+    brand:'iq',
+    model:'z7bro',
+    price:22000,
+ }
+    
+]
